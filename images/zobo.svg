@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Zobo drink">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8bbd0"/><stop offset="1" stop-color="#880e4f"/></linearGradient></defs>
+<rect width="600" height="400" fill="url(#g)"/>
+<ellipse cx="300" cy="215" rx="190" ry="150" fill="#000" opacity=".12"/>
+<circle cx="300" cy="200" r="155" fill="#fff"/><circle cx="300" cy="200" r="125" fill="#f4ece0"/>
+<rect x="245" y="110" width="110" height="180" rx="14" fill="#fff" opacity=".9"/><rect x="252" y="160" width="96" height="124" rx="10" fill="#8e1b3a"/><circle cx="300" cy="135" r="12" fill="#fff" opacity="1"/></svg>
